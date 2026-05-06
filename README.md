@@ -11,7 +11,7 @@ Current focus:
 
 Selected work:
 
-- `image-optimization` — serverless image optimization and video thumbnail generation using AWS CDK, Lambda, CloudFront, and S3.
+- `serverless-image-optimization-template` — sanitized AWS CDK template for image optimization and video thumbnail generation using Lambda, CloudFront, S3, Sharp, and FFmpeg.
 - `AgentJam` — full-stack LLM client for orchestrating teams of AI agents. Beta/private.
 - `Voznotes` — audio-first learning product using LLM and TTS pipelines. Active development.
 - `Geerly` — data-driven web platform with Strava API integration and automated SEO/content workflows.
